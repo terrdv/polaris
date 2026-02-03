@@ -4,7 +4,7 @@ Learn web development through personalized projects tailored to your interests, 
 - Step by step project breakdown
 - AI guidance
 - Tests to ensure projects are being built properly
-- On site IDE.
+- On site IDE
 
 ## Tech Stack
 - React + Vite (TypeScript)
