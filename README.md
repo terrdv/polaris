@@ -1,4 +1,4 @@
-# Polaris 
+# Polaris (StormHacks 2025)
 Learn web development through personalized projects tailored to your interests, proficiency and learning goals.
 ## Features
 - Step by step project breakdown
