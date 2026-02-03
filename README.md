@@ -1,6 +1,12 @@
 # Polaris 
+Learn web development through personalized projects tailored to your interests, proficiency and learning goals.
+## Features
+- Step by step project breakdown
+- AI guidance
+- Tests to ensure projects are being built properly
+- On site IDE.
 
-## Tecb Stack
+## Tech Stack
 - React + Vite (TypeScript)
 - Node.js and Express
 - Supabase (Auth and Database)
